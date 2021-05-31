@@ -67,7 +67,7 @@ save path to main drive and run:
 ## Install 
 ### last of the more stressful steps 🎉
 ```
-  pacstrap /mnt base linux linux-firmware
+  pacstrap /mnt base linux linux-firmware vim networkmanager
 ```
 ***this step will take some time 🕖***
 
