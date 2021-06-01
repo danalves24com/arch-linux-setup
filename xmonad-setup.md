@@ -2,6 +2,5 @@
 
 ## Download
 ```
-  pacman -S xmonad
+  pacman -S xmonad lightmd nitrogen firefox xmobar
 ```
-
